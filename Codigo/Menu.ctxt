@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ El\ constructor\ coloca\ la\ imagen\ del\ menu\ del\ juego\r\n\ y\ reproduce\ un\ fondo\ musical.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ El\ actua\ del\ menu\ se\ ecarga\ de\ reproducir\ la\ cancion\r\n\ en\ un\ ciclo,solo\ se\ detiene\ hasta\ que\ se\ le\ de\ un\ click\r\n\ al\ boton\ Play\ del\ juego.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3

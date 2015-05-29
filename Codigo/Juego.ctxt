@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Juego()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=unPunto
+comment2.target=void\ setPuntos(int)
+comment3.params=
+comment3.target=void\ quitaVida()
+comment4.params=
+comment4.target=void\ disminuyeVelocidad()
+comment5.params=
+comment5.target=void\ aumentaVelocidad()
+comment6.params=
+comment6.target=void\ fin_game()
+numComments=7
